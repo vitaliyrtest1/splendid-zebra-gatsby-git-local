@@ -8,6 +8,11 @@ uploadDir: images
 dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
+assets:
+  referenceType: 'relative'
+  staticDir: 'static'
+  uploadDir: 'images'
+  publicPath: 'images'
 logicFields:
   - blog_feed_section.recent_count
   - blog_feed_section.background_image_opacity
