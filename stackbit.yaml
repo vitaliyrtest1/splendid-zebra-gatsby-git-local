@@ -9,7 +9,7 @@ dataDir: src/data
 pagesDir: src/pages
 pageLayoutKey: template
 assets:
-  referenceType: 'relative'
+  referenceType: relative
   staticDir: 'static'
   uploadDir: 'images'
   publicPath: 'images'
